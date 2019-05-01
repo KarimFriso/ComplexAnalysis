@@ -15,7 +15,6 @@ def f(x, n):
 #Array of the values of N i want to plot:
 N = [1,2,5,10,100]
 
-#fig, ax = plt.subplots(nrows=len(N), ncols=1)
 i = 1;
 for n in N:
     # x axis values 
